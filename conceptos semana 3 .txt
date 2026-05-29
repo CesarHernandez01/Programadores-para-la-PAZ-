@@ -1,0 +1,6 @@
+conceptos semana 3 
+Repositorio: Es el espacio donde se almacenan y organizan los archivos y cambios de un proyecto, permitiendo mantener un control del desarrollo realizado.
+
+Commit: Es el registro de los cambios realizados en el proyecto, dejando evidencia y trazabilidad de cada modificación hecha.
+
+Push:Es la acción de enviar los cambios guardados en el repositorio local hacia un repositorio remoto para compartir y actualizar el trabajo.
