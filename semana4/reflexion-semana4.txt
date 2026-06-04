@@ -1,0 +1,5 @@
+reflexion-semana5
+La creación de herramientas propias permite a las comunidades resolver problemasespecíficos de su entorno sin depender de licencias privadas o costosas corporaciones.
+Al utilizar tecnologías abiertas como Node.js, los ciudadanos acceden de forma librea un ecosistema global que acelera la creación de plataformas adaptadas a su realidad.
+Esto fomenta la soberanía digital, garantizando que el control y la propiedad de losdatos valiosos permanezcan estrictamente dentro del colectivo o vecindario local.Además, la accesibilidad de JavaScript facilita que perfiles diversos colaboren en eldesarrollo de manera ágil.
+Así, la ciudadanía se transforma de consumidora pasivaa creadora activa de soluciones, impulsando la innovación y la autonomía tecnológica.Mostrar código

@@ -1,0 +1,6 @@
+reflexion-semana5
+La ruta POST /reporte sirve para recibir y enviar información desde una aplicación hacia el servidor. A diferencia de una ruta GET, que normalmente solo muestra información en el navegador, una ruta POST se utiliza para guardar datos nuevos, como formularios, reportes o registros.
+
+En una aplicación comunitaria, esta ruta podría servir para que los ciudadanos envíen reportes sobre problemas de su barrio, por ejemplo daños en vías, fallas de alumbrado público, basuras o situaciones de seguridad. El usuario llena un formulario y la información es enviada al servidor mediante la ruta POST /reporte.
+
+Por ejemplo, cuando una persona escribe un reporte y presiona el botón “Enviar”, el frontend muestra el formulario y captura los datos, mientras que el backend recibe la información, la valida y la guarda en una base de datos para que posteriormente pueda ser revisada por los administradores de la plataforma.

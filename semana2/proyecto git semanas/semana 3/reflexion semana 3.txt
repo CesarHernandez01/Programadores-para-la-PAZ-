@@ -1,0 +1,2 @@
+reflexion semana 3
+El repositorio permite almacenar y organizar los proyectos, el commit registra los cambios realizados y el push envía esas actualizaciones al repositorio remoto. Estas herramientas facilitan el control, la seguridad y el trabajo colaborativo en el desarrollo de software.
