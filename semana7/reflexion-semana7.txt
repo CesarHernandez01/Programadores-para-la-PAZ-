@@ -1,0 +1,6 @@
+reflexion-semana7.txt
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica porque esto facilita la identificación y solución de problemas que afectan a los ciudadanos.
+Al registrar la información de manera organizada, se crea un historial que permite realizar seguimiento a cada caso.
+Además, la consulta de reportes ayuda a conocer el estado de las solicitudes y las acciones tomadas por las autoridades o responsables.
+Estas plataformas promueven la participación ciudadana, fortalecen la transparencia y mejoran la comunicación entre la comunidad y las instituciones. 
+También permiten detectar patrones o necesidades recurrentes, contribuyendo a una mejor planificación y toma de decisiones para el beneficio colectivo.
